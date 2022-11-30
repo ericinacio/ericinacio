@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🎆 Olá, Seja Bem Vindo.<br>👋 Meu nome e Eric Inácio.<br>🔭 Atualmente estou iniciando minha carreira de FullStack.<br>🌱 Nesse GitHub postarei um pouco do conhecimento aprendido nessa longa jornada.<br>⚡ Espero que aprenda algo vasculhando meus repositórios.
+🎆 Olá, Seja Bem Vindo.<br>👋 Meu nome é Eric Inácio.<br>🔭 Atualmente estou iniciando minha carreira de FullStack.<br>🌱 Nesse GitHub postarei um pouco do conhecimento aprendido nessa longa jornada.<br>⚡ Espero que aprenda algo vasculhando meus repositórios.
 
 
 ## 🌐 Social:
